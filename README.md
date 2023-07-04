@@ -1,4 +1,4 @@
-# Suggested structure for a code repository for a single app.
+## Suggested structure for a code repository for a single app.
     app/: This folder contains the main code for the rail passenger travel app.
         backend/: Contains the backend code for the application.
             controllers/: Holds the controllers responsible for handling incoming requests and responses.
