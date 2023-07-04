@@ -1,9 +1,0 @@
-Produce best practice coding guidelines, 
-including code repositories information, licensing, syntax rules, 
-and preferred security methodologies.
-
-Please support any meetings with Unicard on AMS reporting, 
-paying focus to us needing the AMS3 report ahead of SET live. 
-Unicard said this should be ready in time
-
-
